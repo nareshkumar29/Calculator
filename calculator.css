@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+}
+.container{
+    border: 10px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    background-color: white;
+   
+}
+#container{
+    border-radius: 30px;
+    border: 20px solid black;
+    background-color: black;
+
+}
+
+.output input {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: right;
+    font-size: 30px;
+   
+  }
+  input{
+    border: none;
+    outline: none;
+    background-color: white;
+    color: black;
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+    border-radius: 10px;
+  }
+ 
